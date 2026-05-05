@@ -1,5 +1,5 @@
 <h2>Welcome to GOOOAL</h2>
-This is  an application that lets you explore the English Premier League. Sign up for an account of login as a preexcisting user to see each team currently in the most competitive soccer league in the world! You can see each teams information at the click of a button, favorite that specific team, or see their roster of players. You can also remove your favorite teams or search by title of each team. Enjoy!
+This is  an application that lets you explore the English Premier League. Sign up for an account of login as a pre-existing user to see each team currently in the most competitive soccer league in the world! You can see each teams information at the click of a button, favorite that specific team, or see their roster of players. You can also remove your favorite teams or search by title of each team. Enjoy!
 ***
 You will need to  clone backend application repo in order to explore the app.(<a href="https://github.com/spike0161/backend-goooal">GOOOAL Backend</a>)
 ***
